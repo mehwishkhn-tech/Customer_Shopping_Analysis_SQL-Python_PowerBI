@@ -33,11 +33,11 @@ and optimize marketing strategies.
 ---
 
 ## 🚀 Project Workflow
-Python (Data Cleaning)
+#Python (Data Cleaning)
 ↓
-PostgreSQL (SQL Analysis)
+#PostgreSQL (SQL Analysis)
 ↓
-Power BI (Interactive Dashboard)
+#Power BI (Interactive Dashboard)
 ---
 
 ## 🛠️ Tools & Technologies Used
